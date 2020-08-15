@@ -20,9 +20,9 @@
 		grid-template-columns: 1fr 1fr 1fr;
 		grid-template-rows: 1fr 2fr 1fr;
 		grid-template-areas: 
-			"none1 mc none2"
-			"lc mc rc"
-			"none3 mc none4";
+			".	mc 	."
+			"lc mc 	rc"
+			".	mc 	.";
 
 		grid-gap: 20px;
 	}
