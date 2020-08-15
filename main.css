@@ -26,6 +26,10 @@
 
 		grid-gap: 20px;
 	}
+
+	.middle-content {
+		grid-gap: 0px !important;
+	}
 }
 
 .left-content {
